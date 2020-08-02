@@ -4,3 +4,7 @@ c=a+b
 print(c)
 
 # import file fungsi
+from func import tambah
+num1 = 5
+num2 = 7
+print(tambah(num1, num2))
